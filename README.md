@@ -15,8 +15,6 @@
 
 <br>
 
-<img align="left" alt="HTML5" width="1660px" src="https://imgur.com/9QLavkJ.png" />
-<br><br>
 
 ### Connect with me:
 
