@@ -1,10 +1,5 @@
  ### Hi there, I'm Abhsihek Mishra  AKA  errorLAD 👋
 
-<!--
-**errorLAD/errorLAD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
 - 🔭 I’m currently working on stayfloor.com
 - 🌱 I’m currently learning  React native & ethical hacking
 - 👯 I’m looking to collaborate on React.js
